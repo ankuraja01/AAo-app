@@ -16,9 +16,9 @@ Go to **[Releases](../../releases)** and download the file for your device:
 | Device | File |
 |---|---|
 | Android | `AAo-<version>.apk` |
-| Windows | `AAo-<version>-windows.zip` |
+| Windows | `AAo-Setup-<version>.exe` |
 
-> No public release has been published yet. The first release is being prepared.
+> Latest: **AAo 1.0**. Installed apps show an update popup when a new version is published.
 
 ### Install on Android
 
@@ -28,9 +28,11 @@ Go to **[Releases](../../releases)** and download the file for your device:
 
 ### Install on Windows
 
-1. Download the `-windows.zip` file.
-2. Extract it to a folder.
-3. Run `xconnect.exe`. Windows SmartScreen may warn you because the app is new; choose **More info → Run anyway** only if you downloaded it from this page.
+1. Download `AAo-Setup-<version>.exe`.
+2. Double-click it. If Windows shows **“Windows protected your PC”**, click **More info → Run anyway** (only for a file downloaded from this page).
+3. Click **Install**. AAo appears in the Start menu (and on the desktop if you tick the option).
+
+To update, run the newer setup; it upgrades in place. To remove: Settings → Apps → AAo → Uninstall.
 
 ## Verify your download
 
