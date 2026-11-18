@@ -5,7 +5,7 @@
 <h1 align="center">AAo</h1>
 <p align="center"><b>Connect. Communicate. Earn.</b></p>
 
-AAo is a messaging app for Android and Windows with its own in-app reward points.
+AAo is a messaging app for Android and Windows with its own in-app rewards, **AAo Coins**.
 
 This repository is only for **downloading the app**. The source code is private.
 
@@ -18,13 +18,15 @@ Go to **[Releases](../../releases)** and download the file for your device:
 | Android | `AAo-<version>.apk` |
 | Windows | `AAo-Setup-<version>.exe` |
 
-> Latest: **AAo 1.0**. Installed apps show an update popup when a new version is published.
+> Latest: **AAo 1.1**. Installed apps show an update popup when a new version is published and update inside the app.
 
 ### Install on Android
 
 1. Download the `.apk` file on your phone.
 2. Open it. If Android asks, allow installing apps from this source.
 3. Tap **Install**.
+
+> **Coming from AAo 1.0 on Android?** 1.1 installs as a new app. After installing it, uninstall the old AAo (long-press its icon → Uninstall). Your chats are kept on the server; just sign in again.
 
 ### Install on Windows
 
@@ -41,7 +43,7 @@ Each release lists a SHA-256 checksum for every file. Only install files downloa
 ## Good to know
 
 - Messages are protected in transit (HTTPS/TLS). AAo does **not** offer end-to-end encryption yet.
-- Reward points are in-app rewards only and have **no cash value**.
+- **AAo Coins** are in-app rewards only and have **no cash value**.
 
 ## Feedback
 
